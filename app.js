@@ -884,7 +884,7 @@ function renderObservation() {
         <div class="top-bar" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
             <div class="page-head" style="margin-bottom: 0;">
                 <h2 class="page-title font-mono">Walkdown Register</h2>
-                <p class="page-subtitle">Submit your local area observations</p>
+                <p class="page-subtitle">Submit your local area visit observations</p>
             </div>
             <div style="background: var(--card); padding: 0.6rem 1rem; border-radius: 0.5rem; border: 1px solid color-mix(in srgb, var(--foreground) 10%, transparent); font-size: 0.85rem;">
                 <span class="text-muted">Name : </span> <strong class="font-mono text-foreground">${userName}</strong><br>
