@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Operation-portal-v004';
+const CACHE_NAME = 'Operation-portal-v005';
 
 // Cache all essential shell files and the modular data files
 const urlsToCache = [
@@ -9,9 +9,6 @@ const urlsToCache = [
     './data-electrical.js',
     './data-protection.js',
     './data-employee.js',
-
-    // './data-docs.js',
-
     './manifest.json',
     './icon-192.png',
     './icon-512.png',
