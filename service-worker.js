@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Operation-portal-deployed-v001';
+const CACHE_NAME = 'Operation-portal-deployed-v002';
 
 // Cache all essential shell files and the modular data files
 const urlsToCache = [
